@@ -19,8 +19,6 @@ For the blockchain wealth decentralization the following metrics considered:
 - The proposed *block-based Herfindahl-Hirschman index*.
   
 
-For a detailed description of these metrics, we refer to ...
-
 ## Data sets and wealth decentralization calculations
 
 We consider 10,000 addresses with the largest balances to evaluate wealth decentralization.
