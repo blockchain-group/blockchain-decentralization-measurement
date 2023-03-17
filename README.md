@@ -20,6 +20,7 @@ For the blockchain wealth decentralization the following metrics considered:
   
 
 ## Data sets and wealth decentralization calculations
+Dataset are provide in the directory [Data](Data/)
 
 We consider 10,000 addresses with the largest balances to evaluate wealth decentralization.
 
