@@ -6,7 +6,7 @@ Blockchain decentralization is widely acknowledged as a core virtue of blockchai
 
 ## Metrics considered
 
-For the blockchain wealth decentralization the following metrics considered:
+For the blockchain wealth decentralization the following metrics are considered:
 
 - *Gini index,*
   
@@ -24,15 +24,22 @@ Considered data sets are provided in the directory [Data](Data/)
 
 We consider 10,000 addresses with the largest balances to evaluate wealth decentralization.
 
-*Bitcoin* data of top balances can be accessed at [Whale Addresses - Bitcoin(BTC) - BTC.com Professional Data Service for Global Blockchain Enthusiasts](https://explorer.btc.com/btc/top-address). We provide a snippet of the dataset on *01.09.2022* and wealth decentralization calculations using the metrics mentioned above.
+*Bitcoin* data of top balances can be accessed at [Whale Addresses - Bitcoin(BTC) - BTC.com Professional Data Service for Global Blockchain Enthusiasts](https://explorer.btc.com/btc/top-address). We provide two snippets of the datasets on *01.09.2022* and *30.06.2023* and wealth decentralization calculations using the metrics mentioned above.
 
 - [Bitcoin data 01.09.2022](Data/BTC-Top10000-balances-01.09.2022.xlsx)
+- [Bitcoin data 30.06.2023](Data/BTC-Top10000-balances-30.06.2023.xlsx)
 
-*Ethereum* data of top balances can be accessed at [Ethereum Top Accounts by ETH Balance | Etherscan](https://etherscan.io/accounts). We provide two snippets of the dataset on *01.09.2022* (before PoS) and *31.01.2023* (after PoS) and wealth decentralization calculations using the metrics mentioned above.
+*Ethereum* data of top balances can be accessed at [Ethereum Top Accounts by ETH Balance | Etherscan](https://etherscan.io/accounts). We provide three snippets of the dataset on *01.09.2022* (before PoS); *31.01.2023* and *30.06.2023* (after PoS) and wealth decentralization calculations using the metrics mentioned above.
 
 - [Ethereum data 01.09.2022](Data/ETH-PoW-Top10000-balances-01.09.2022.xlsx)
 - [Ethereum data 31.01.2023](Data/ETH-PoS-Top10000-balances-31.01.2023.xlsx)
+- [Ethereum data 30.06.2023](Data/ETH-PoS-Top10000-balances-30.06.2023.xlsx)
 
+The data of Layer 2 blockchains *Arbitrum*, *Optimism*, and *Polygon*  of top balances can be accessed at [Arbiscan Top Accounts by ETH Balance](https://arbiscan.io/accounts), [Optimism Top Accounts by ETH Balance](https://optimistic.etherscan.io/accounts), and [Polygon Top Accounts by MATIC Balance](https://polygonscan.com/accounts). We provide a snippet of the datasets on *30.06.2023* and wealth decentralization calculations using the metrics mentioned above.
+
+- [Arbitrum data 30.06.2023](Data/Arbitrum-Top10000-balances-30.06.2023.xlsx)
+- [Optimism data 30.06.2023](Data/Optimism-Top10000-balances-30.06.2023.xlsx)
+- [Polygon data 30.06.2023](Data/Matic-Top10000-balances-30.06.2023.xlsx)
 ## Contribution to this repository
 
 We welcome contributions and corrections to this resource either way:
