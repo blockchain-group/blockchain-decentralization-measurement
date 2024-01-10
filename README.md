@@ -2,7 +2,7 @@
 
 ## Goal of this repository
 
-Blockchain decentralization is widely acknowledged as a core virtue of blockchains. Public blockchains, like *Bitcoin* and *Ethereum*, are based on cryptocurrencies distributed between blockchain participants. Cryptocurrencies play a significant role in the usage and development of blockchain ecosystems; therefore, wealth decentralization evaluation is very relevant. This repository provides data and results of analysis of wealth decentralization measurement for *Bitcoin* and *Ethereum* blockchain networks using various metrics.
+Blockchain decentralization is widely acknowledged as a core virtue of blockchains. Public blockchains, like *Bitcoin* and *Ethereum*, are based on cryptocurrencies distributed between blockchain participants. Cryptocurrencies play a significant role in the usage and development of blockchain ecosystems; therefore, wealth decentralization evaluation is very relevant. This repository provides data and results of analysis of wealth decentralization measurement for Layer 1 *Bitcoin* and *Ethereum* blockchain networks and also popular Layer 2  *Arbitrum*, *Optimism*, and *Polygon* blockchains using various metrics.
 
 ## Metrics considered
 
